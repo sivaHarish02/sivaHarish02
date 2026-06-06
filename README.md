@@ -1,26 +1,144 @@
-<h1 align="center">Hi 👋, I'm SivaHarish</h1>
-<h3 align="center">I'm passionate fullstack developer</h3>
+<h1 align="center">Hi 👋, I'm Siva Harish S</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaharish02&label=Profile%20views&color=0e75b6&style=flat" alt="sivaharish02" /> </p>
+<h3 align="center">Backend Engineer | Flutter Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivaharish02" alt="sivaharish02" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://sivaharish02.github.io/PORTFOLIO/](https://sivaharish02.github.io/PORTFOLIO/)
-
-- 📫 How to reach me **sivaharish0202@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sivaharish s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivaharish s" height="30" width="40" /></a>
+<p align="center">
+  Building scalable APIs, reliable backend systems, mobile applications, payment workflows, and real-time platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:sivaharish0202@gmail.com">Email</a> •
+  <a href="https://github.com/sivaHarish02">GitHub</a> •
+  <a href="https://www.linkedin.com/MYPROFILE">LinkedIn</a> •
+  <a href="https://sivaharish02.github.io/PORTFOLIO/">Portfolio</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaharish02&show_icons=true&locale=en&layout=compact" alt="sivaharish02" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivaharish02&show_icons=true&locale=en" alt="sivaharish02" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaharish02&" alt="sivaharish02" /></p>
+I am a Backend Engineer and Flutter Developer with 2+ years of experience building production-ready APIs, mobile applications, admin panels, payment systems, notification workflows, and database-driven platforms.
+
+I focus on solving real-world engineering problems such as payment reliability, database migrations, push notification delivery, video calling workflows, deep linking, cloud storage optimization, and backend performance.
+
+---
+
+## 🚀 What I Work On
+
+* Backend API Development
+* Flutter Mobile App Development
+* Payment Gateway & Webhook Systems
+* Database Design & Query Optimization
+* Push Notification Architecture
+* Real-Time Communication Systems
+* Deep Linking & App Routing
+* AWS S3 Media Storage
+* VPS Deployment & Production Debugging
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge)
+
+---
+
+## 🏆 Engineering Highlights
+
+* Developed and maintained 150+ production APIs.
+* Built 15+ real-world applications across web and mobile platforms.
+* Created 10+ admin panels and business management systems.
+* Implemented Razorpay webhook-based payment processing to prevent payment-success/order-failure issues.
+* Migrated production databases from Latin encoding to UTF8MB4 for multilingual and emoji support.
+* Optimized Firebase Cloud Messaging workflows and token lifecycle handling.
+* Debugged and improved WebRTC video calling stability across mobile and web.
+* Optimized AWS S3 media storage and production backend workflows.
+
+---
+
+## 📌 Featured Projects
+
+### Virtual 2 Live Platform
+
+Real-time video calling, chat, push notifications, deep linking, and event management platform.
+
+**Tech:** Flutter, Node.js, MySQL, Firebase, WebRTC
+
+---
+
+### Ovantica Payment Workflow
+
+Payment reliability improvement using Razorpay Webhooks and backend-side verification.
+
+**Tech:** Node.js, MySQL, Razorpay, Webhooks
+
+---
+
+### Nanjil Mart
+
+E-commerce platform with product management, category management, stock workflow, order processing, and admin panel.
+
+**Tech:** Flutter, Node.js, Prisma ORM, MySQL, Razorpay
+
+---
+
+### CRM Lead Management System
+
+Lead tracking system with IndiaMART integration, employee management, reminders, and dashboard analytics.
+
+**Tech:** React.js, Node.js, MySQL
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivaHarish02&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaHarish02&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contact
+
+* Email: [sivaharish0202@gmail.com](mailto:sivaharish0202@gmail.com)
+* Location: Coimbatore, Tamil Nadu, India
+* GitHub: https://github.com/sivaHarish02
+* LinkedIn: https://www.linkedin.com/sivaharish02
+
+---
+
+<p align="center">
+  <b>Clean Code. Reliable Systems. Real-World Impact.</b>
+</p>
