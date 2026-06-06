@@ -118,27 +118,41 @@ Lead tracking system with IndiaMART integration, employee management, reminders,
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Engineering Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivaHarish02&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
+- 150+ Production APIs Developed
+- 15+ Real-World Applications Delivered
+- 10+ Admin Panels Built
+- Payment Reliability Engineering
+- UTF8MB4 Database Migration
+- WebRTC Video Communication Optimization
+- FCM Notification Architecture
+- AWS S3 Storage Optimization
+- VPS Production Deployment
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaHarish02&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+---
+
+## 🎯 Current Focus
+
+- Backend Engineering
+- Flutter Applications
+- Payment Systems
+- Scalable API Architecture
+- Real-Time Applications
+- Cloud Infrastructure
 
 ---
 
 ## 📫 Contact
 
-* Email: [sivaharish0202@gmail.com](mailto:sivaharish0202@gmail.com)
-* Location: Coimbatore, Tamil Nadu, India
-* GitHub: https://github.com/sivaHarish02
-* LinkedIn: https://www.linkedin.com/sivaharish02
+📧 sivaharish0202@gmail.com
+
+📍 Coimbatore, Tamil Nadu, India
+
+🔗 GitHub: github.com/sivaHarish02
+
+🔗 LinkedIn: linkedin.com/in/sivaharish02
 
 ---
 
-<p align="center">
-  <b>Clean Code. Reliable Systems. Real-World Impact.</b>
-</p>
+Clean Code • Reliable Systems • Real-World Impact
