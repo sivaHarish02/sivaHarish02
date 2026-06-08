@@ -9,8 +9,8 @@
 <p align="center">
   <a href="mailto:sivaharish0202@gmail.com">Email</a> •
   <a href="https://github.com/sivaHarish02">GitHub</a> •
-  <a href="https://www.linkedin.com/MYPROFILE">LinkedIn</a> •
-  <a href="https://sivaharish02.github.io/PORTFOLIO/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/sivaharish02">LinkedIn</a> •
+  <a href="https://siva-harish-portfolio.vercel.app">Portfolio</a>
 </p>
 
 ---
